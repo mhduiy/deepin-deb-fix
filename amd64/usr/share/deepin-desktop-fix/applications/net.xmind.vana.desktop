@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Xmind
+Exec=/opt/deepin-apps-fix/net.xmind.vana/files/bin/xmind.sh %U
+Terminal=false
+Type=Application
+Icon=xmind
+StartupWMClass=Xmind
+StartupNotify=true
+Comment=Xmind - The most popular mind mapping software.
+MimeType=application/xmind;x-scheme-handler/xmind;x-scheme-handler/xmind-zen;
+TryExec=/opt/apps/net.xmind.vana/files/resources/app.asar.unpacked/node_modules/resolve/bin/resolve

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Alva
+Comment=Create living prototypes with code components
+Exec=/opt/deepin-apps-fix/io.meetalva.alva/files/bin/AppRun.sh
+Terminal=false
+Type=Application
+Icon=Alva
+StartupWMClass=@meetalva/core
+Version=0.9.1.2340
+Categories=Graphics;
+TryExec=/opt/apps/io.meetalva.alva/entries/icons/hicolor/32x32/apps/Alva.png
