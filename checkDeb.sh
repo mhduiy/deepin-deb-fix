@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 cd "$(dirname "$0")" || exit
 archs=amd64,arm64,loongarch64,i386
 apt_source_config_file=/etc/apt/sources.list.d/deepin-deb-fix.list
